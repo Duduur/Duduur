@@ -1,68 +1,73 @@
-# 👋 Olá! Eu sou o Eduardo Nascimento
+# 👋 Oii! Eu sou o Eduardo
 
-💻 Estudante de Tecnologia (SENAI)
-📊 Focado em Backend e Análise de Dados
-🚀 Buscando oportunidade de estágio ou posição júnior
-
----
-
-## 🧠 Sobre mim
-
-Atualmente estou me desenvolvendo nas áreas de desenvolvimento de sistemas e análise de dados, com foco em criar soluções práticas e eficientes.
-
-🎓 Formação:
-
-* Técnico em Desenvolvimento de Sistemas (SENAI)
-* Graduação em Inteligência e Análise de Dados (em andamento)
-
-🌎 Inglês intermediário
+💻 Desenvolvedor em formação
+🚀 Focado em Backend e Dados
 
 ---
 
-## 📊 Linguagens mais usadas
+## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Duduur\&layout=donut\&theme=radical)
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Duduur\&show_icons=true\&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Duduur\&layout=compact\&theme=radical)
+
+</div>
 
 ---
 
-## 🛠️ Tecnologias
+## 🧠 Main Skills
 
-### 💻 Linguagens
+<div align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40"/>
-
-### 🌐 Desenvolvimento Web
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
 
-### 🗄️ Banco de Dados
+</div>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+---
 
-### ⚙️ Ferramentas
+## ⚙️ Tools
+
+<div align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
 
----
-
-## 📌 Objetivo
-
-Busco uma oportunidade para aplicar meus conhecimentos em desenvolvimento e dados, evoluindo profissionalmente e contribuindo com soluções reais.
+</div>
 
 ---
 
-## 📫 Contato
+## 📚 Currently Learning
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:eduardo.nascimentocl07@gmail.com.br)
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/eduardo-nascimento-couto-luiz)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+
+</div>
 
 ---
 
-✨ Sempre aprendendo e evoluindo
+## 📈 Contribution Graph
+
+![Snake animation](https://github.com/Duduur/Duduur/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 📫 Connect with me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com)
+
+</div>
+
+---
+
+✨ Building my journey in tech
