@@ -1,8 +1,8 @@
-# 👋 Fala, eu sou o Edu!
+# 👋 Oláa! Eu sou o Eduardo
 
-💻 Desenvolvedor em formação
-🚀 Focado em Backend, APIs e Dados
-📍 Brasil
+🌱 Cursando Desenvolvimento de Sistemas
+💻 Focado em Backend e Dados
+🚀 Em evolução constante
 
 ---
 
