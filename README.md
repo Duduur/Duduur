@@ -1,51 +1,68 @@
-# 👋 Oláa! Eu sou o Eduardo
+# 👋 Olá! Eu sou o Eduardo Nascimento
 
-🌱 Cursando Desenvolvimento de Sistemas
-💻 Focado em Backend e Dados
-🚀 Em evolução constante
+💻 Estudante de Tecnologia (SENAI)
+📊 Focado em Backend e Análise de Dados
+🚀 Buscando oportunidade de estágio ou posição júnior
 
 ---
 
 ## 🧠 Sobre mim
 
-Atualmente estou desenvolvendo projetos práticos voltados para resolver problemas reais, principalmente nas áreas de:
+Atualmente estou me desenvolvendo nas áreas de desenvolvimento de sistemas e análise de dados, com foco em criar soluções práticas e eficientes.
 
-* APIs com Node.js
-* Banco de Dados
-* Sistemas voltados à saúde e organização
+🎓 Formação:
+
+* Técnico em Desenvolvimento de Sistemas (SENAI)
+* Graduação em Inteligência e Análise de Dados (em andamento)
+
+🌎 Inglês intermediário
+
+---
+
+## 📊 Linguagens mais usadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Duduur\&layout=donut\&theme=radical)
 
 ---
 
 ## 🛠️ Tecnologias
 
-* JavaScript
-* Node.js
-* Prisma
-* MySQL
-* Python
+### 💻 Linguagens
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40"/>
+
+### 🌐 Desenvolvimento Web
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+
+### 🗄️ Banco de Dados
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+
+### ⚙️ Ferramentas
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
 
 ---
 
-## 📌 Projetos em destaque
+## 📌 Objetivo
 
-🔹 API de gerenciamento (Node.js + Prisma)
-🔹 Projeto de saúde materno-infantil (SaaS)
-🔹 Estudos em Data Science
-
----
-
-## 📊 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Duduur\&show_icons=true\&theme=radical)
+Busco uma oportunidade para aplicar meus conhecimentos em desenvolvimento e dados, evoluindo profissionalmente e contribuindo com soluções reais.
 
 ---
 
 ## 📫 Contato
 
-* Email: (coloca aqui depois)
-* LinkedIn: (coloca depois)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:eduardo.nascimentocl07@gmail.com.br)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/eduardo-nascimento-couto-luiz)
 
 ---
 
-✨ Em constante evolução
-
+✨ Sempre aprendendo e evoluindo
