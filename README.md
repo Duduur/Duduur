@@ -53,4 +53,4 @@
 
 ---
 
-✨ Building my journey in tech
+✨ Construindo minha jornada
