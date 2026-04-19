@@ -10,8 +10,8 @@
 <div align="center">
 
 
+![Stats](https://github-readme-stats.vercel.app/api?username=Duduur\&show_icons=true\&theme=radical\&hide=issues)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Duduur\&layout=compact\&theme=radical)
 
 </div>
 
